@@ -1,1 +1,9 @@
+A=10
+B=20
 
+print(A,"valor A")
+print(B,"valor B")
+
+
+print(B,"valor A")
+print(A,"valor B")
