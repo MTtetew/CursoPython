@@ -3,7 +3,9 @@ B=20
 
 print(A,"valor A")
 print(B,"valor B")
+temporario=A
+A=B
+B=temporario
 
-
-print(B,"valor A")
-print(A,"valor B")
+print(A,"valor A")
+print(B,"valor B")
