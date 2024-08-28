@@ -1,3 +1,5 @@
 n1=int(input("digite um numero:"))
-s = n1+1
-print(" o antecessor é {} e {}".format(n1,s))
+a = n1+1
+s =n1-1
+print(" o antecessor de {} é {}".format(n1,a))
+print(" o sucessor de {} é {}".format(n1,s))
