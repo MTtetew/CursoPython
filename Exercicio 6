@@ -1,9 +1,11 @@
 print("Escreva a base e a altura de um triangulo para ter o resultado da area do triangulo:")
+
 print(" ")
 print("base:")
-b=int(input(""))
+b=float(input(""))
 print("altura:")
-a=int(input(""))
+a=float(input(""))
 
 print("Area do retangulo:")
 print("{}".format(a*b/2))
+
