@@ -1,3 +1,6 @@
+3) Os pares de instruções abaixo produzem o mesmo resultado? 
+
+
 A=(4/2)+(2/4) 
 print(A)
 
